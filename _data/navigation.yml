@@ -1,0 +1,11 @@
+main:
+  - title: "React PWA"
+    url: https://ruby-china.surge.sh/
+  - title: "React Hooks TODO"
+    url: https://github.com/naifen/todo-on-hooks
+  - title: "GoGame.rb"
+    url: https://github.com/naifen/go_game_rb
+  - title: "Rails Google Tasks"
+    url: https://github.com/naifen/rails-stimulus-google-tasks
+  - title: "Github Repos"
+    url: https://github.com/naifen?tab=repositories

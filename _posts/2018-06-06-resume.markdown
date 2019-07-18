@@ -1,0 +1,127 @@
+---
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "file-alt"
+layout: single
+title:  "Résumé"
+date:   2018-06-06 21:15:13 -0700
+categories: résumé
+---
+* Name:    Jerry Guo
+* Email:   jgus2012@gmail.com
+* Phone:   (408)838-8779
+* Website: https://naifen.github.io/
+
+## Skills & abilities
+
+* 6+ years of experience with Ruby, Rails, and Javascript.
+* Years of hands-on experience with Javascript frameworks, libraries &
+technologies: React, Angular, jQuery, Node.js, Typescript, Webpack, Babel,
+Redux, D3.js and more.
+* Experienced with Ruby, Rails' MVC pattern, CoC. Practical experience with
+Meta Programming and Rails configurations, features beyond the basics:
+service objects, concerns, serialization, advanced Active Record associations,
+queries, ActiveSupport Notifications, Instrumentation, Rails security,
+authentication, authorization, etc.
+* Practical experience of developing software using both OOP and
+Functional Programming paradigms and principles. Solid knowledge of
+common algorithms and data structures.
+* Understand the fundamentals of HTTP. Consume and develop
+REST APIs, GraphQL services frontend and backend.
+* Understand the core SQL concepts, principles, best practices and efficient
+in SQL queries, operations. Experienced in using ORMs e.g. ActiveRecord,
+Sequel inside and outside Rails.
+* Write clean, DRY, scalable, understandable and well-documented code.
+Write tests and develop software in TDD, BDD approaches for both Ruby
+projects using Rspec, Minitest and Javascript projects using Mocha, Chai,
+ESlint, etc.
+* Being able understand and discuss program implementations, technologies
+choices with teammates using agile software development paradigms.
+Implement UX/UI designers' designs.
+* Understand the core concepts of Git. Fluent in Git operations and
+team-based workflow: branching, pull/merge request, etc.
+* Productive with development tools like Vim, VS Code, etc.
+* Having a passion for software development and a willingness to learn,
+experiment with the latest technologies.
+* Team player, good communication skill, critical thinking, and problem-solving
+abilities. Self-driven and motivated.
+
+Below is a chart to demonstrate my core skills and strengths.
+![skills-strength](/assets/images/skills-strength.png){:width="550px"}
+
+## Education
+
+University California, San Diego. Bachelor of Science.
+
+While my Major is all about Calculus and mathematics modeling, I also took
+computer science courses and earned units points while in UCSD.
+I learned Java and Javascript there, then I self-taught Ruby and Rails
+and became a full-stack web developer.
+
+## Working Experience
+
+### Full stack developer at Channel Distrubition, INC. Jan 2013- July 2015
+* Developed and maintained an oral care products E-commerce website
+built with Ruby on Rails. Performed major and minor Rails version upgrades.
+* Extensive experience with using and customizing Spree, a rails E-commerce
+gem, override views, models, controllers for company's business need.
+* Created the store frontend with jQuery and Bootstrap. Implemented features
+for other employees to easily modify part of frontend from the
+administration panel dynamically, eg, promotions, on-sale items, daily deals,
+and the discount amount, etc.
+* Implemented recurring payments with products subscriptions, and
+consumer products replacement reminder features, which generated
+5% - 10% more monthly sales.
+* Implemented Google product feeds automation workflow. Wrote programs to
+generate products feed in Google shopping's required format and upload to
+Google, ensure products can be displayed in Google shopping search results.
+* Implemented a system to connect warehouse computers to E-commerce app backend,
+retrieve the shipping information through USPS shipping software, updated
+company's E-commerce app database and sent customers shipment notification
+emails with rake tasks and cron jobs. This automation system saved other
+employee's labor, time, errors and headache, improved their happiness and
+customer satisfaction.
+
+### Online education startup Sep 2015-Nov 2017
+* Built Rails app of an online AP course tutoring for Chinese
+high school students who are planning to apply for U.S. universities.
+* Developed the website with teammates. Review code,
+discuss program implementations and technology choice on a daily basis.
+* Built frontend using Angular initially and later rebuilt in React and ES6.
+Ensure code quality with ES-lint and TDD.
+* Gained extensive experience and knowledge of OOP and Functional programming
+by practice both paradigms during development.
+* Worked with Redis, Nginx, and WebSockets, etc in the production environment
+and deployed the app to AWS with EC2, RDS, S3, and CloudFront.
+* Revised Java programming and tutored Java and Math AP class.
+
+### Bath & Kitchen products E-commerce project Dec 2017-Aug 2018
+* Built E-commerce project for an Australia based bath and kitchen products
+company using Ruby on Rails and Solidus E-commerce gem. Built store frontend
+in Rails with React.
+* Modularize app by implementing features, functionalities as gems, such as
+customer messagings on orders, and products reviews with pictures
+for better SEO and conversion rate.
+* Utilized Docker in development and production environment. Integrated
+CI tools and workflow with the Rails app.
+* Learned E-commerce knowledges, best practices and used in real-world
+business on both the dedicated store and Amazon.
+
+### IoT project developer at ANP JL, INC Oct 2018-June 2019
+* Worked on a sports lighting IoT project for a U.S. sports lighting
+contractor client which requires lighting fixtures IoT feature.
+* Designed the infrastructure of the demo with my partner who studied and
+worked at Columbia University EE lab. Implemented a Node.js UDP server
+which connects to hardware made by my partner.
+* Worked with designers developing the Web user interface using React
+and Mobile user interface using React-Native.
+* Showcase demo to our client by visiting their offices multiple times.
+Here's a link to the demo videos and brief introduction diagram.
+[Demo][demo-url]
+* Coordinated with the client and the Chinese LED lighting manufacturer to
+make samples and send to the U.S. for testing.
+
+## Work authorization
+Legally eligible to work in the United States. **NO** employment sponsorship needed.
+
+[demo-url]: https://drive.google.com/drive/folders/1oV5e-RjhLeNPI4gRewH02vcymwyfLl8z
