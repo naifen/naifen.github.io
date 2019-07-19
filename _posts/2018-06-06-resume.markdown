@@ -21,8 +21,9 @@ Redux, D3.js and more.
 * Experienced with Ruby, Rails' MVC pattern, CoC. Practical experience with
 Meta Programming and Rails configurations, features beyond the basics:
 service objects, concerns, serialization, advanced Active Record associations,
-queries, ActiveSupport Notifications, Instrumentation, Rails security,
-authentication, authorization, etc.
+queries, ActiveSupport Notifications, Instrumentation, security,
+authentication, authorization, etc. Experience with Ruby libraries
+besides Rails: Sinatra, Roda, etc.
 * Practical experience of developing software using both OOP and
 Functional Programming paradigms and principles. Solid knowledge of
 common algorithms and data structures.
@@ -54,7 +55,7 @@ Below is a chart to demonstrate my core skills and strengths.
 University California, San Diego. Bachelor of Science.
 
 While my Major is all about Calculus and mathematics modeling, I also took
-computer science courses and earned units points while in UCSD.
+computer science courses and earned units points in UCSD.
 I learned Java and Javascript there, then I self-taught Ruby and Rails
 and became a full-stack web developer.
 
@@ -63,8 +64,8 @@ and became a full-stack web developer.
 ### Full stack developer at Channel Distrubition, INC. Jan 2013- July 2015
 * Developed and maintained an oral care products E-commerce website
 built with Ruby on Rails. Performed major and minor Rails version upgrades.
-* Extensive experience with using and customizing Spree, a rails E-commerce
-gem, override views, models, controllers for company's business need.
+* Extensive experience with using and customizing Spree, a Rails E-commerce
+gem, override business logic and data models for the company's need.
 * Created the store frontend with jQuery and Bootstrap. Implemented features
 for other employees to easily modify part of frontend from the
 administration panel dynamically, eg, promotions, on-sale items, daily deals,
@@ -83,10 +84,10 @@ employee's labor, time, errors and headache, improved their happiness and
 customer satisfaction.
 
 ### Online education startup Sep 2015-Nov 2017
-* Built Rails app of an online AP course tutoring for Chinese
-high school students who are planning to apply for U.S. universities.
+* Built an online AP course tutoring service Rails app for Chinese high
+school students who are planning to apply for U.S. universities.
 * Developed the website with teammates. Review code,
-discuss program implementations and technology choice on a daily basis.
+discuss program implementations and technology choices on a daily basis.
 * Built frontend using Angular initially and later rebuilt in React and ES6.
 Ensure code quality with ES-lint and TDD.
 * Gained extensive experience and knowledge of OOP and Functional programming
@@ -96,20 +97,20 @@ and deployed the app to AWS with EC2, RDS, S3, and CloudFront.
 * Revised Java programming and tutored Java and Math AP class.
 
 ### Bath & Kitchen products E-commerce project Dec 2017-Aug 2018
-* Built E-commerce project for an Australia based bath and kitchen products
-company using Ruby on Rails and Solidus E-commerce gem. Built store frontend
-in Rails with React.
+* Built E-commerce project for an Australia based bath and kitchen
+products company using Ruby on Rails and Solidus E-commerce gem. Built
+store frontend with React in Rails app.
 * Modularize app by implementing features, functionalities as gems, such as
 customer messagings on orders, and products reviews with pictures
 for better SEO and conversion rate.
 * Utilized Docker in development and production environment. Integrated
 CI tools and workflow with the Rails app.
-* Learned E-commerce knowledges, best practices and used in real-world
+* Gained E-commerce knowledges, experience, best practices for real-world
 business on both the dedicated store and Amazon.
 
 ### IoT project developer at ANP JL, INC Oct 2018-June 2019
 * Worked on a sports lighting IoT project for a U.S. sports lighting
-contractor client which requires lighting fixtures IoT feature.
+contractor client which requires lighting fixtures IoT features.
 * Designed the infrastructure of the demo with my partner who studied and
 worked at Columbia University EE lab. Implemented a Node.js UDP server
 which connects to hardware made by my partner.
